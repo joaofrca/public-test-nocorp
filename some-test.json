@@ -1,0 +1,13 @@
+{
+  "config": 
+    {
+      "ckey": "bla",
+      "ctype": "SYSTEM",
+      "cvisible": "X",
+      "datatype": "STRING",
+      "blaValue": "BLA/BLA.jar",
+      "blaDescription": "BLA BLA BLA",
+      "blaCategory": "BLA",
+      "blaExample": "BLA.jar"
+    }
+}
